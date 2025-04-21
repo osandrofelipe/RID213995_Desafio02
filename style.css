@@ -42,7 +42,7 @@ header h1 {
     display: block;
     height: auto;
     border-radius: 0.625rem;
-    /* height:67vh; */
+    height:80vh;
     width: 100%;
     transition: all .2s;
     object-fit: cover;
